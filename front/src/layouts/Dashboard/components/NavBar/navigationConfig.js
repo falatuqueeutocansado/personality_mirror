@@ -1,7 +1,7 @@
 /* eslint-disable react/no-multi-comp */
 /* eslint-disable react/display-name */
 
-import BarChartIcon from '@material-ui/icons/BarChart';
+import People from '@material-ui/icons/People';
 
 
 export default [
@@ -9,9 +9,9 @@ export default [
     title: 'Pages',
     pages: [
       {
-        title: 'Em alta',
+        title: 'Mirror Diary',
         href: '/',
-        icon: BarChartIcon,
+        icon: People,
       },
     ],
   },
