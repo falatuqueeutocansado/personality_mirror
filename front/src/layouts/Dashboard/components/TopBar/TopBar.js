@@ -105,7 +105,7 @@ const TopBar = props => {
       <Toolbar>
         <RouterLink to="/">
           <Typography className={classes.logoColor}>
-            ZapShared
+          Personality Mirror
           </Typography>
         </RouterLink>
         <div className={classes.flexGrow} />

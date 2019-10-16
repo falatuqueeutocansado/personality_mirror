@@ -70,7 +70,7 @@ const NavBar = props => {
         >
           {'Admin'}
         </Typography>
-        <Typography variant="body2">{'Tiozão'}</Typography>
+        <Typography variant="body2">{'Cansado'}</Typography>
       </div>
       <Divider className={classes.divider} />
       <nav className={classes.navigation}>
